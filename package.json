@@ -1,7 +1,7 @@
 {
-  "name": "KurrXd",
+  "name": "HeliaaBot",
   "version": "0.0.1",
-  "description": "KurrXd",
+  "description": "Helbotz",
   "main": "node index",
   "directories": {
     "lib": "lib"
